@@ -1,8 +1,10 @@
-# Your_Name
+# **Saad Alsulami**
 
-## Your_path(title / Job you want to be it)
 
-Your_bio
+
+Master's student in Artificial Intelligence at King Abdulaziz University, passionate about Machine Learning and Computer Vision.
+Experienced in data analysis, model building, and AI research projects. 
+Aiming to become a leading AI researcher specializing in computer vision and robotics
 
 ---
 
@@ -11,8 +13,9 @@ Your_bio
 - 🐍 *Python, 📊 **R*
 - 📈 Data Analysis & Visualization
 - 🤖 Machine Learning, Deep Learning
-- 🧠 Computer Vision, AI Applications
-- 🌐 Web Scraping & Automation
+- 🧠 Computer Vision
+- 🗄️ Databases
+  
 
 ---
 
@@ -31,5 +34,5 @@ Your_bio
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](Your_LinkedIn_Link)  
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](Your_X_Link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([Your_LinkedIn_Link](https://www.linkedin.com/in/saad-alsulami-0abba7289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)]([Your_X_Link](https://x.com/saad_t0t?s=21))
