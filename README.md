@@ -30,7 +30,8 @@ Aiming to become a leading AI researcher specializing in computer vision and rob
 
 
 <!-- GitHub Streak Card -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saadtalsulami&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=Saadtalsulami&theme=default)
+
 
 
 ---
