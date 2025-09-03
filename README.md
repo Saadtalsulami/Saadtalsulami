@@ -22,13 +22,16 @@ Aiming to become a leading AI researcher specializing in computer vision and rob
 ## 📊 GitHub Insights
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saadtalsulami&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saadtalsulami&show_icons=true&theme=radical)
+
 
 <!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadtalsulami&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadtalsulami&layout=compact&theme=dark)
+
 
 <!-- GitHub Streak Card -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saadtalsulami&theme=default)
+
 
 ---
 
