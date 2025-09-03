@@ -1,16 +1,35 @@
-## Hi there 👋
+# Your_Name
 
-<!--
-**Saadtalsulami/Saadtalsulami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Your_path(title / Job you want to be it)
 
-Here are some ideas to get you started:
+Your_bio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills and Experience
+
+- 🐍 *Python, 📊 **R*
+- 📈 Data Analysis & Visualization
+- 🤖 Machine Learning, Deep Learning
+- 🧠 Computer Vision, AI Applications
+- 🌐 Web Scraping & Automation
+
+---
+
+## 📊 GitHub Insights
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=(Your_username)&show_icons=true&theme=default)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=(Your_UserName)&layout=compact&theme=default)
+
+<!-- GitHub Streak Card -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=(Your_UserName)&theme=default)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](Your_LinkedIn_Link)  
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](Your_X_Link)
