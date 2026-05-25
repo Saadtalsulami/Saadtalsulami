@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning+Enthusiast;Computer+Vision+Projects;AI+Research+%26+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Applied+AI+Researcher;Computer+Vision+Engineer;Intelligent+Systems+Developer;AI+Research+%26+Development" />
 
 </p>
 
@@ -10,21 +10,19 @@
 
 <p align="center">
 
-Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and AI-driven systems.
+Focused on building intelligent AI systems for real-world applications, with interests in Computer Vision, Intelligent Monitoring Systems, and Applied Machine Learning.
 
-Interested in building intelligent solutions and applying AI techniques to real-world problems through research projects and practical implementations.
+Building AI-driven solutions through research-oriented projects, intelligent monitoring systems, and practical AI implementations.
 
 </p>
 
 ---
 
-# 🛠 Skills & Experience
+# 🛠 Skills & Technologies
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Analysis-4FC3F7?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
 
@@ -32,9 +30,30 @@ Interested in building intelligent solutions and applying AI techniques to real-
 
 <img src="https://img.shields.io/badge/Computer%20Vision-00C853?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Data%20Analysis-4FC3F7?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Databases-607D8B?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 </p>
+
+---
+
+# 🔬 Research Interests
+
+- Computer Vision
+- Intelligent Monitoring Systems
+- Applied Artificial Intelligence
+- AI for Healthcare
+- Real-Time Detection Systems
+- Behavioral Analytics
 
 ---
 
@@ -42,12 +61,15 @@ Interested in building intelligent solutions and applying AI techniques to real-
 
 ## SentinelAI — Behavioral Threat Detection System
 
-Behavioral cybersecurity monitoring system designed to detect suspicious employee activity using:
+AI-powered behavioral threat detection system designed for real-time employee activity monitoring and anomaly detection in enterprise environments.
+
+### Key Features
 - Machine Learning Classification
 - Anomaly Detection
 - Behavioral Analytics
 - FastAPI Backend
 - Real-Time Monitoring
+- Security Activity Analysis
 
 <p align="center">
 
