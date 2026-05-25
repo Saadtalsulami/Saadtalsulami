@@ -1,46 +1,68 @@
-# **Saad Alsulami**
+# Saad Alsulami
 
+Master’s student in Artificial Intelligence at King Abdulaziz University, passionate about Machine Learning, Computer Vision, and AI-driven systems.
 
+Experienced in:
+- Machine Learning & Deep Learning
+- Behavioral Analytics
+- Computer Vision
+- AI Research Projects
+- Data Analysis & Visualization
 
-Master's student in Artificial Intelligence at King Abdulaziz University, passionate about Machine Learning and Computer Vision.
-Experienced in data analysis, model building, and AI research projects. 
-Aiming to become a leading AI researcher specializing in computer vision and robotics
+Focused on building intelligent systems for real-world applications in cybersecurity, automation, and computer vision.
 
 ---
 
-## 🛠 Skills and Experience
+## 🛠 Skills
 
-- 🐍 *Python, 📊 **R*
-- 📈 Data Analysis & Visualization
-- 🤖 Machine Learning, Deep Learning
-- 🧠 Computer Vision
-- 🗄️ Databases
-  
+- Python
+- R
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Analysis
+- FastAPI
+- Scikit-learn
+- Pandas
+- Databases
 
 ---
 
 ## 📊 GitHub Insights
 
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saadtalsulami&show_icons=true&theme=radical)
+<p align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saadtalsulami&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadtalsulami&layout=compact&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadtalsulami&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
 
-<!-- GitHub Streak Card -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Saadtalsulami&theme=dark&hide_border=true)
+<p align="center">
 
+<img src="https://streak-stats.demolab.com?user=Saadtalsulami&theme=tokyonight&hide_border=true"/>
 
+</p>
 
+---
 
+## 🚀 Featured Project
 
+### SentinelAI — Behavioral Threat Detection System
 
+Machine learning-based cybersecurity monitoring system for detecting insider threats and suspicious employee behavior using:
+- Random Forest Classification
+- Isolation Forest Anomaly Detection
+- FastAPI Backend
+- Real-Time Monitoring Engine
+
+🔗 Repository:
+https://github.com/Saadtalsulami/Sentinel-AI-Behavioral-Threat-Detection
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([Your_LinkedIn_Link](https://www.linkedin.com/in/saad-alsulami-0abba7289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)]([Your_X_Link](https://x.com/saad_t0t?s=21))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/saad-alsulami-0abba7289)
+
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/saad_t0t)
