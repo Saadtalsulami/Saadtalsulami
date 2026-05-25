@@ -18,20 +18,20 @@ Interested in building intelligent solutions and applying AI techniques to real-
 
 ---
 
-# 🛠 Skills & Technologies
+# 🛠 Skills & Experience
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,git,github,vscode" />
-
-</p>
-
-<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Data%20Analysis-4FC3F7?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Deep%20Learning-9C27B0?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Computer%20Vision-00C853?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Databases-607D8B?style=for-the-badge"/>
 
 </p>
