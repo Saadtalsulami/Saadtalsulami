@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Computer+Vision+Projects;AI+Research+%26+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning+Enthusiast;Computer+Vision+Projects;AI+Research+%26+Development" />
 
 </p>
 
@@ -10,13 +10,9 @@
 
 ## About Me
 
-Master’s graduate in Artificial Intelligence from King Abdulaziz University passionate about:
-- Machine Learning
-- Computer Vision
-- Data Analysis
-- AI Research Projects
+Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and AI-driven systems.
 
-Interested in building intelligent systems and applying AI techniques to real-world problems.
+Interested in building intelligent solutions and applying AI techniques to real-world problems through research projects and practical implementations.
 
 ---
 
