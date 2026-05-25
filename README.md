@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Computer+Vision+Projects;AI+Research+%26+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Computer+Vision+Projects;AI+Research+%26+Development" />
 
 </p>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-Master’s student in Artificial Intelligence at King Abdulaziz University passionate about:
+Master’s graduate in Artificial Intelligence from King Abdulaziz University passionate about:
 - Machine Learning
 - Computer Vision
 - Data Analysis
@@ -22,11 +22,26 @@ Interested in building intelligent systems and applying AI techniques to real-wo
 
 ## 🛠 Skills and Experience
 
-- 🐍 Python
-- 📊 Data Analysis & Visualization
-- 🤖 Machine Learning, Deep Learning
-- 🧠 Computer Vision
-- 🗄️ Databases
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Data%20Analysis-4FC3F7?style=for-the-badge" />
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge" />
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Deep%20Learning-9C27B0?style=for-the-badge" />
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Computer%20Vision-00C853?style=for-the-badge" />
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Databases-607D8B?style=for-the-badge" />
+
+</p>
 
 ---
 
