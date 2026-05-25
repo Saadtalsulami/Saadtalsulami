@@ -1,68 +1,123 @@
 # Saad Alsulami
 
-Master’s student in Artificial Intelligence at King Abdulaziz University, passionate about Machine Learning, Computer Vision, and AI-driven systems.
+<p align="center">
 
-Experienced in:
-- Machine Learning & Deep Learning
-- Behavioral Analytics
-- Computer Vision
-- AI Research Projects
-- Data Analysis & Visualization
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Researcher;Machine+Learning+Engineer;Computer+Vision+Enthusiast;AI+%26+Cybersecurity+Projects" />
 
-Focused on building intelligent systems for real-world applications in cybersecurity, automation, and computer vision.
+</p>
 
 ---
 
-## 🛠 Skills
+## About Me
 
-- Python
-- R
+Master’s student in Artificial Intelligence at King Abdulaziz University with strong interests in:
+
+- Machine Learning
+- Computer Vision
+- Behavioral Analytics
+- AI Research
+- Intelligent Monitoring Systems
+- Cybersecurity Applications
+
+Focused on building real-world AI systems combining:
+- automation
+- behavioral analysis
+- machine learning
+- computer vision
+- security intelligence
+
+---
+
+# Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+# AI & Research Interests
+
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Data Analysis
-- FastAPI
-- Scikit-learn
-- Pandas
-- Databases
+- Behavioral Threat Detection
+- AI Monitoring Systems
+- Data Analytics
+- Explainable AI
+- Intelligent Automation
 
 ---
 
-## 📊 GitHub Insights
+# Featured Project
 
-<p align="center">
+## SentinelAI — Behavioral Threat Detection System
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saadtalsulami&show_icons=true&theme=tokyonight&hide_border=true"/>
+Behavioral cybersecurity monitoring system designed to detect suspicious employee activity and insider threats using:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadtalsulami&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Saadtalsulami&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🚀 Featured Project
-
-### SentinelAI — Behavioral Threat Detection System
-
-Machine learning-based cybersecurity monitoring system for detecting insider threats and suspicious employee behavior using:
 - Random Forest Classification
 - Isolation Forest Anomaly Detection
 - FastAPI Backend
 - Real-Time Monitoring Engine
+- Explainable Security Analysis
 
-🔗 Repository:
-https://github.com/Saadtalsulami/Sentinel-AI-Behavioral-Threat-Detection
+### Key Features
+
+- Behavioral Activity Analysis
+- Threat Prioritization
+- Automated Security Alerts
+- Real-Time Monitoring
+- Insider Threat Detection
+- Machine Learning-Based Risk Classification
+
+### Repository
+
+🔗 https://github.com/Saadtalsulami/Sentinel-AI-Behavioral-Threat-Detection
 
 ---
 
-## 🌐 Connect with Me
+# Project Architecture
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/saad-alsulami-0abba7289)
+<p align="center">
 
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/saad_t0t)
+<img src="https://raw.githubusercontent.com/Saadtalsulami/Sentinel-AI-Behavioral-Threat-Detection/main/images/sentinel_pipeline.png" width="850"/>
+
+</p>
+
+---
+
+# Future Vision
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Saadtalsulami/Sentinel-AI-Behavioral-Threat-Detection/main/images/sentinel_roadmap.png" width="850"/>
+
+</p>
+
+---
+
+# GitHub Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadtalsulami&theme=tokyonight" />
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/saad-alsulami-0abba7289">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/saad_t0t">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
