@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Researcher;Machine+Learning+Engineer;Computer+Vision+Enthusiast;AI+%26+Cybersecurity+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Computer+Vision+Projects;AI+Research+%26+Development" />
 
 </p>
 
@@ -10,95 +10,43 @@
 
 ## About Me
 
-Master’s student in Artificial Intelligence at King Abdulaziz University with strong interests in:
-
+Master’s student in Artificial Intelligence at King Abdulaziz University passionate about:
 - Machine Learning
 - Computer Vision
+- Data Analysis
+- AI Research Projects
+
+Interested in building intelligent systems and applying AI techniques to real-world problems.
+
+---
+
+## 🛠 Skills and Experience
+
+- 🐍 Python
+- 📊 Data Analysis & Visualization
+- 🤖 Machine Learning, Deep Learning
+- 🧠 Computer Vision
+- 🗄️ Databases
+
+---
+
+## 🚀 Featured Project
+
+### SentinelAI — Behavioral Threat Detection System
+
+Behavioral cybersecurity monitoring system designed to detect suspicious employee activity using:
+- Machine Learning Classification
+- Anomaly Detection
 - Behavioral Analytics
-- AI Research
-- Intelligent Monitoring Systems
-- Cybersecurity Applications
-
-Focused on building real-world AI systems combining:
-- automation
-- behavioral analysis
-- machine learning
-- computer vision
-- security intelligence
-
----
-
-# Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,mysql,git,github,vscode" />
-
-</p>
-
----
-
-# AI & Research Interests
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Behavioral Threat Detection
-- AI Monitoring Systems
-- Data Analytics
-- Explainable AI
-- Intelligent Automation
-
----
-
-# Featured Project
-
-## SentinelAI — Behavioral Threat Detection System
-
-Behavioral cybersecurity monitoring system designed to detect suspicious employee activity and insider threats using:
-
-- Random Forest Classification
-- Isolation Forest Anomaly Detection
 - FastAPI Backend
-- Real-Time Monitoring Engine
-- Explainable Security Analysis
-
-### Key Features
-
-- Behavioral Activity Analysis
-- Threat Prioritization
-- Automated Security Alerts
 - Real-Time Monitoring
-- Insider Threat Detection
-- Machine Learning-Based Risk Classification
 
-### Repository
-
-🔗 https://github.com/Saadtalsulami/Sentinel-AI-Behavioral-Threat-Detection
+🔗 Repository:
+https://github.com/Saadtalsulami/Sentinel-AI-Behavioral-Threat-Detection
 
 ---
 
-# Project Architecture
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Saadtalsulami/Sentinel-AI-Behavioral-Threat-Detection/main/images/sentinel_pipeline.png" width="850"/>
-
-</p>
-
----
-
-# Future Vision
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Saadtalsulami/Sentinel-AI-Behavioral-Threat-Detection/main/images/sentinel_roadmap.png" width="850"/>
-
-</p>
-
----
-
-# GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
 
@@ -108,7 +56,7 @@ Behavioral cybersecurity monitoring system designed to detect suspicious employe
 
 ---
 
-# Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
